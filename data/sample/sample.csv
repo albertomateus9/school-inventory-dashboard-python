@@ -1,0 +1,6 @@
+asset_id,lab,category,status,os
+EQ001,Lab A,Computer,active,Linux
+EQ002,Lab A,Computer,maintenance,Windows
+EQ003,Lab B,Switch,active,NetworkOS
+EQ004,Lab B,Printer,maintenance,Firmware
+EQ005,Lab C,Computer,active,Linux
